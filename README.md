@@ -14,8 +14,3 @@ Due to size constraints, the dataset is not included in this repository.
 - CNN with 3 convolutional blocks
 - Binary classification (NORMAL / PNEUMONIA)
 
-## Reference
-Inspired by:
-https://www.kaggle.com/code/madz2000/pneumonia-detection-using-cnn-92-6-accuracy
-
-
